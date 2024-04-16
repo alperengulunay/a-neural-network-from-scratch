@@ -1,2 +1,2 @@
 # a-neural-network-from-scratch
-Build basic neural network without Tensorflow/Pytorch, just numpy &amp; math
+I build basic neural network without Tensorflow/Pytorch, just numpy &amp; math
