@@ -14,3 +14,7 @@ I built basic neural network just numpy &amp; math (without Tensorflow or Pytorc
 - Performs gradient descent
 - Builds a neural network with desired hidden layer dimensions
 - Conducts training for the desired number of iterations
+
+### Results
+- Achieved results: After 15,000 iterations, train set accuracy: 0.80, test set accuracy: 79.78
+
